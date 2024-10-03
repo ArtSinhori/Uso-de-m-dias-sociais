@@ -13,6 +13,5 @@ const data = [
     }
   ]
   
-      console.log(dados)
   }
   
