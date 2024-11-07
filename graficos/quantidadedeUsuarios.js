@@ -50,7 +50,7 @@ async function quantidadeUsuariosPorRede() {
         }
     }
 
-    criarGrafico(data,layout)
+    criarGrafico(data, layout)
 }
 
 quantidadeUsuariosPorRede()
